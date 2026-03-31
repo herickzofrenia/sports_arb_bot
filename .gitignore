@@ -1,0 +1,16 @@
+.env
+.env.backup
+*.log
+__pycache__/
+*.pyc
+_bets.json
+.env 
+__pycache__/ 
+*.log 
+_bets.json 
+_limit_orders.json 
+.env 
+__pycache__/ 
+*.log 
+_bets.json 
+_limit_orders.json 
